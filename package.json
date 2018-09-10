@@ -37,7 +37,7 @@
     "typescript": "^2.7.2"
   },
   "dependencies": {
-    "commander": "^2.16.0",
+    "commander": "^2.18.0",
     "express": "^4.16.3",
     "pm2": "^3.0.0"
   }
